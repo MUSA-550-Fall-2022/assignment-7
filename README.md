@@ -38,4 +38,4 @@ Much more on these methods in the coming weeks!
 
 The notebook and proposal word document/PDF should be submitted to your own private repository on GitHub, which can be created using the following link:
 
-https://classroom.github.com/a/1chu7Fxgm
+https://classroom.github.com/a/1chu7Fxg
